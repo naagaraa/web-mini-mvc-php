@@ -1,0 +1,9 @@
+.image-small {
+   width: 100px;
+   height: 100px;
+   border-radius: 50px!important;
+}
+
+.card-small{
+   width: 18rem;
+}
